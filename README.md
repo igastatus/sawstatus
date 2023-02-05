@@ -1,2 +1,2 @@
-SAWSTATUS | Istanbul Grand Airport Uçuş Takip
+SAWSTATUS | Istanbul Sabiha  Airport Uçuş Takip
 https://sawstatus.com
