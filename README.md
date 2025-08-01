@@ -40,7 +40,7 @@ GitHub: [github.com/igastatus/sawstatus](https://github.com/igastatus/sawstatus)
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE]([https://github.com/igastatus/sawstatus/blob/main/LICENSE](https://github.com/igastatus/sawstatus/blob/master/blob/main/LICENSE)) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/igastatus/sawstatus/blob/master/blob/main/LICENSE) file for more details.
 
 ---
 
